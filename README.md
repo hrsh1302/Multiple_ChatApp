@@ -14,6 +14,11 @@ This Java application consists of a simple chat server and client implementation
 - **Notifications:** Users are aware when a client has joined or has left the chat room
 - **Simple Design:** Making communication simple
 
+## Code Output
+
+![Screenshot](https://github.com/hrsh1302/Multiple_ChatApp/assets/147640663/035616f5-d2eb-4e64-b380-fa8c3195c50b)
+
+
 ## License
 
 This application is released under the [MIT License](LICENSE). 
